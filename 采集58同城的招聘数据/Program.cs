@@ -68,5 +68,7 @@ namespace 采集58同城的招聘数据
             }
 
         }
+
+        public static void AAA() { }
     }
 }
